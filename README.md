@@ -1,5 +1,6 @@
 This is a Ray Dalio Tribute page.
 
-It makes up the first part of my coding portfolio.
+You can see the live project on the following URL:
+https://github.com/njerimwangi-rgb/ray-dalio-tribute-page
 
 Enjoy!
